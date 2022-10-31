@@ -8,15 +8,10 @@ html{
 
 body{
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
 background-color:white;
-
 margin: 40px;
-
 padding:40px;
-
 color:#242424;
-
 border-top: 10px solid #4169e1;
 }
 
@@ -29,6 +24,8 @@ h1{
 p{
 
 line-height: 2em;
+margin: 20px;
+padding:20px;
 }
 
 #blog
@@ -46,10 +43,7 @@ a[href]{
 font-weight: bold;
 }
 
-.btn{
-   
-width:200px;
-display:flex;
+#newsletter{
 
-
+    margin:20px;
 }
