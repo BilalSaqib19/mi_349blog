@@ -31,8 +31,9 @@ p{
 line-height: 2em;
 }
 
-#blog{
-
+#blog
+{
+border-top: 2px dotted #ccc;
 }
 
 .blogpost{
