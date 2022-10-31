@@ -46,6 +46,9 @@ a[href]{
 font-weight: bold;
 }
 
-.btn{
-    color:blue;
+.button{
+    background-color: #fff;
+    color:#4169e1
+    
+
 }
