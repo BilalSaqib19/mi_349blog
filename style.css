@@ -46,9 +46,10 @@ a[href]{
 font-weight: bold;
 }
 
-.button{
-    background-color: #fff;
-    color:#4169e1
-    
+.btn{
+   
+width:200px;
+display:flex;
+
 
 }
