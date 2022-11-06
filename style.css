@@ -56,10 +56,14 @@ font-size: 1.1em;
     margin:40 px;
 }
 
+header{
 
+    display:flex;
+
+}
 
 nav{
-background:green;
+
 display:flex;
 position: sticky;
 top: 0;
