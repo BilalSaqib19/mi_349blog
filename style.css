@@ -58,10 +58,10 @@ font-size: 1.1em;
 
 
 
-nav{
+.nav{
 
 position: sticky;
-top: 0;
+top: 20;
 
 
 }
