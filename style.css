@@ -56,7 +56,10 @@ font-size: 1.1em;
     margin:40 px;
 }
 
-
+header{
+    height: 0px;
+    background:red;
+}
 
 nav{
 color:lightblue;
