@@ -37,6 +37,8 @@ table{
 {
 
 border-top: 2px dotted #4169e1;
+display:flex;
+
 }
 
 .blogpost
