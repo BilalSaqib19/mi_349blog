@@ -59,6 +59,7 @@ font-size: 1.1em;
 
 
 nav{
+        display: flex;
 color:lightblue;
 position: sticky;
 top: 0px;
