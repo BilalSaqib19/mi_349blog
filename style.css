@@ -59,6 +59,7 @@ font-size: 1.1em;
 
 
 nav{
+    background: rgb(104, 126, 133);
 display: flex;
 color:lightblue;
 position: sticky;
