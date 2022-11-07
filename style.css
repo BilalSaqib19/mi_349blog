@@ -66,3 +66,7 @@ position: sticky;
 top: 0px;
 justify-content: space-between;
 }
+
+.okami{
+    float:left;
+}
