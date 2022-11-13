@@ -83,13 +83,13 @@ float:right;
 @media (max-width:800px){
     #blog{
 
-        background-color: red;
-        display: none;
+        background-color: rgb(38, 38, 202);
+      
     }
 
     body{
 
-    background-color: red;
+    background-color:  rgb(38, 38, 202);
     }
 
 }
