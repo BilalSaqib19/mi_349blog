@@ -80,7 +80,7 @@ float:right;
 
 }
 
-@media (max-width:1000px){
+@media (max-width:400px){
     #blog{
 
         background-color: rgb(240, 240, 247);
