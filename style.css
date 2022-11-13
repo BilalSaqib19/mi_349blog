@@ -83,12 +83,12 @@ float:right;
 @media (max-width:400px){
     #blog{
 
-        flex: none;
+        background-color: red;
     }
 
-body{
+    body{
 
-    background-color: aquamarine;
-}
+    background-color: red;
+    }
 
 }
