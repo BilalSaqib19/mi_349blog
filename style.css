@@ -80,10 +80,11 @@ float:right;
 
 }
 
-@media (max-width:400px){
+@media (max-width:800px){
     #blog{
 
         background-color: red;
+        display: none;
     }
 
     body{
