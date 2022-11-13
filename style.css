@@ -84,12 +84,13 @@ float:right;
     #blog{
 
         background-color: rgb(193, 193, 241);
-      
+        
+      display:inline-table;
     }
 
     body{
 
-    background-color:  rgb(205, 205, 249);
+    background-color:  rgb(246, 246, 255);
     color:#161616;
     }
 
