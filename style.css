@@ -79,3 +79,16 @@ justify-content: space-between;
 float:right;
 
 }
+
+@media (max-width:400px){
+    #blog{
+
+        flex: none;
+    }
+
+body{
+
+    background-color: aquamarine;
+}
+
+}
